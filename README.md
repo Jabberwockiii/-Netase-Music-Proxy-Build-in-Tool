@@ -13,6 +13,8 @@ Netase Music Oversea PlayMusic 网易云音乐系统自带工具翻墙回国内�
 http://free-proxy.cz/zh/proxylist/country/CN/all/ping/all
 选择一个你想要的代理服务器
 ![image](https://user-images.githubusercontent.com/50785344/145692412-2a532b4d-ff4f-45de-84e8-e8b435353bcb.png)
+![image](https://user-images.githubusercontent.com/50785344/145692529-55645e6e-b8da-46d6-939f-0680cdab7dad.png)
+
 在自定义代理里面输入
 服务器和端口
 然后随便输入一个用户名和密码
